@@ -1,4 +1,4 @@
-# Henlo
+# Henlo~
 
 **I am Shadew. I'm driven by furries, physics, math, art, graphics/UI design, game development and absolute nonsense.**
 
