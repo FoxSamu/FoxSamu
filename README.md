@@ -6,6 +6,7 @@
 - They/Them
 - I speak English & Dutch
 - Java - TypeScript - JavaScript - C - Python
+- I refuse using American English in code (I write "colour")
 
 https://shadew.net/ - [@FoxShadew](https://twitter.com/FoxShadew)
 
