@@ -2,6 +2,8 @@
 
 **I am Samū~ (aka. Runefox or Shadew). I'm driven mostly by furries, but also physics, math, art, graphics/UI design, game development and absolute nonsense.**
 
+_I don't like my legal name, please just call me Samū._
+
 - Full time fox
 - 20 years old, born July 15th 2002
 - They/Them
