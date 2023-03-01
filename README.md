@@ -17,3 +17,4 @@ https://shadew.net/ - [@FoxShadew](https://twitter.com/FoxShadew)
 
 I'm studying Computing Science at the University of Groningen, The Netherlands. For public university projects refer to [@FoxShadewUni](https://github.com/FoxShadewUni).
 
+My profile picture was made by [@KitaKettu](https://twitter.com/KitaKettu).
