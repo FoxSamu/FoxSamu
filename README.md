@@ -13,7 +13,7 @@ _I don't like my legal name, please just call me Samū._
 - Java - TypeScript - JavaScript - C - Python
 - I refuse using American English in code (I write "colour" and nothing will stop me >:3)
 
-https://runefox.dev/ - [@FoxShadew](https://twitter.com/FoxShadew)
+https://runefox.dev/ - [@SamuuuFox](https://twitter.com/SamuuuFox)
 
 I'm studying Computing Science at the University of Groningen, The Netherlands. For public university projects refer to [@FoxShadewUni](https://github.com/FoxShadewUni).
 
