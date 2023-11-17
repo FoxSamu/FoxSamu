@@ -1,6 +1,6 @@
-# Henlo~
+# Hellu!
 
-**I am Samū~ (aka. Runefox). I'm driven mostly by furries and gamedev, but also physics, math, art, compiler building, graphics/UI design and absolute nonsense.**
+**I am Samū (aka. Runefox). I'm driven mostly by furries and gamedev, but also physics, math, art, compiler building, graphics/UI design and absolute nonsense.**
 
 _I don't like my legal name, please just call me Samū._
 
