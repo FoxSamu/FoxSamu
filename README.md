@@ -9,7 +9,7 @@ Hi I'm Samū. I do things. Like programming!
 - Programming as a hobby for over 10 years
 - Master of object orientation
 - Java - Kotlin - Rust - TypeScript - JavaScript - C - Python
-- I refuse to use American English (I write "colour" in my code and nobody can stop me)
+- I use British English in my code no matter what (I write "colour" in my code and nobody can stop me)
 
 ***
 
