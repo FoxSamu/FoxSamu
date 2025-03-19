@@ -11,6 +11,7 @@ Hi I'm Samū. I do things. Like programming!
 - Master of object orientation
 - Java - Kotlin - Rust - TypeScript - JavaScript - C - Python
 - I use British English in my code no matter what (I write "colour" in my code and nobody can stop me)
+- Some know me as Olaf Nankman, those strange words on my ID.
 
 ***
 
