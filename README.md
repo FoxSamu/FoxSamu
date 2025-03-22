@@ -5,7 +5,7 @@ Hi I'm Samū. I do things. Like programming!
 - Full time fox
 - 22 years old
 - He/They
-- Designer, artist and programmer
+- Hobbyist programmer & graphical designer
 - I speak English & Dutch, learning Finnish
 - Over 10 years experience in programming
 - Master of object orientation
