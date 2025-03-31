@@ -1,16 +1,16 @@
 # Hellu!
 
-Hi I'm Samū. I do things. Like programming!
+Hi I'm Samū. I do things. Like programming! This GitHub is my personal account where I publish all the random things that I make.
 
-- Full time fox
+- My brain runs fox software
 - 22 years old
-- He/They
+- He/Him
 - Hobbyist programmer & graphical designer
-- I speak English & Dutch, learning Finnish
+- I speak English & Dutch, learning German & Finnish (älä kysy minulta miksi)
 - Over 10 years experience in programming
-- Master of object orientation
+- Interested in deranged stuff that nobody else likes to do (math)
 - Kotlin - Java - Rust - TypeScript - JavaScript - C - Python
-- I use British English in my code no matter what (I write "colour" in my code and nobody can stop me)
+- I prefer British English over other forms of English, even in code (yes `val colour: Color` is an actual statement made by me in actual code)
 
 I deploy some Java/Kotlin libraries on https://maven.runefox.dev/ sometimes.
 
@@ -18,4 +18,6 @@ I deploy some Java/Kotlin libraries on https://maven.runefox.dev/ sometimes.
 
 https://runefox.dev/ - [@samu.runefox.dev](https://samu.runefox.dev/) - [@HeckinFox](https://twitter.com/HeckinFox)
 
-I'm currently studying Computing Science in university. For public university projects refer to [@FoxSamuUni](https://github.com/FoxSamuUni).
+I'm currently studying a BSc Computing Science at the University of Groningen. Previous education includes an exchange to the University of Helsinki as part of my current studies, and a never-finished BSc Technical Computer Science at the University of Twente.
+
+For public university projects refer to [@FoxSamuUni](https://github.com/FoxSamuUni).
