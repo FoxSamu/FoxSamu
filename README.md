@@ -14,10 +14,10 @@ Hi I'm Samū. I do things. Like programming! This GitHub is my personal account 
 
 I deploy some Java/Kotlin libraries on https://maven.runefox.dev/ sometimes.
 
-***
-
-https://runefox.dev/ - [@samu.runefox.dev](https://samu.runefox.dev/) - [@HeckinFox](https://twitter.com/HeckinFox)
-
 I'm currently studying a BSc Computing Science at the University of Groningen. Previous education includes an exchange to the University of Helsinki as part of my current studies, and a never-finished BSc Technical Computer Science at the University of Twente.
 
 For public university projects refer to [@FoxSamuUni](https://github.com/FoxSamuUni).
+
+***
+
+https://runefox.dev/
