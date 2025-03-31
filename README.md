@@ -12,7 +12,7 @@ Hi I'm Samū. I do things. Like programming! This GitHub is my personal account 
 - Kotlin - Java - Rust - TypeScript - JavaScript - C - Python
 - I prefer British English over other forms of English, even in code (yes `val colour: Color` is an actual statement made by me in actual code)
 
-https://runefox.dev/ (forgive me for this utterly outdated website).
+https://runefox.dev/ (forgive me for this utterly outdated website).  
 I deploy some Java/Kotlin libraries on https://maven.runefox.dev/ sometimes.
 
 ***
