@@ -5,6 +5,7 @@ Hi I'm Samū. I do things. Like programming! This GitHub is my personal account 
 - My brain runs fox software
 - 22 years old
 - He/Him
+- Legally known as Olaf Nankman
 - Hobbyist programmer & graphical designer
 - I speak English & Dutch, learning German & Finnish (älä kysy minulta miksi)
 - Over 10 years experience in programming
