@@ -1,15 +1,23 @@
-# Hellu!
+# HELLU!! So exciting to see you here!
 
 Hi I'm Samū. I do things. Like programming! This GitHub is my personal account where I publish all the random things that I make.
 
 - My brain runs fox software
+- Olaf W. Nankman
 - 23 years old
 - They/He/She
-- Legally known as Olaf W. Nankman
 - Bachelor in Computer Science
-- I speak English & Dutch
-- Over 10 years experience in programming
-- Kotlin - Java - Rust - TypeScript - JavaScript - C - Python
+- I speak English (UK), en Nederlands, und etwas Deutsch, ja vähän Suomea, och liten Svensk.
+- Programming since I was 9
+
+I'm particularly skilled in the following things:
+- Kotlin - Java - Rust - TypeScript - C# - JavaScript - C - Python
+- Asynchronous programming
+- Compiler construction
+- UI/UX
+- Game development
+- Formal logic (I did my BSc thesis on this)
+- Linear algebra & geometry
 
 ***
 
