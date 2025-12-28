@@ -3,7 +3,7 @@
 Hi I'm Samū. I do things. Like programming! This GitHub is my personal account where I publish all the random things that I make.
 
 - My brain runs fox software
-- Olaf W. Nankman
+- Olaf W. Nankman is my full name
 - 23 years old
 - They/He/She
 - Bachelor in Computer Science
@@ -12,6 +12,7 @@ Hi I'm Samū. I do things. Like programming! This GitHub is my personal account 
 
 I'm particularly skilled in the following things:
 - Kotlin - Java - Rust - TypeScript - C# - JavaScript - C - Python
+- Minecraft mods
 - Asynchronous programming
 - Compiler construction
 - UI/UX
