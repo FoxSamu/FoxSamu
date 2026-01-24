@@ -7,7 +7,7 @@ Hi I'm Samū. I do things. Like programming! This GitHub is my personal account 
 - 23 years old
 - They/He/She
 - Bachelor in Computer Science
-- I speak English (UK), en Nederlands, und etwas Deutsch, ja vähän Suomea, och liten Svensk.
+- I speak English (UK), en Nederlands, und etwas Deutsch, ja vähän Suomea, och liten Svensk
 - Programming since I was 9
 
 I'm particularly skilled in the following things:
