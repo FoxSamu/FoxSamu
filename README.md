@@ -5,7 +5,7 @@ Hi I'm Samū. I do things. Like programming! This GitHub page is my personal acc
 - My brain runs fox software
 - Olaf W. Nankman is my full name
 - 23 years old
-- They/He/She
+- Nonbinary (They/He/She)
 - Bachelor in Computer Science
 - I speak English (UK), en Nederlands, und etwas Deutsch, ja vähän Suomea, och liten Svensk
 - Programming since I was 9
