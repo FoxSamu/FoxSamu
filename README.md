@@ -1,6 +1,6 @@
 # HELLU!! So exciting to see you here!
 
-Hi I'm Samū. I do things. Like programming! This GitHub is my personal account where I publish all the random things that I make.
+Hi I'm Samū. I do things. Like programming! This GitHub page is my personal account where I publish all the random things that I make and almost never finish.
 
 - My brain runs fox software
 - Olaf W. Nankman is my full name
