@@ -22,7 +22,7 @@ I'm particularly skilled in the following things:
 
 ***
 
-I'm have studied Computing Science at the University of Groningen, I graduated for my bachelor in 2025. Previous education includes an exchange to the University of Helsinki as part of my bachelor studies, and a never-finished Technical Computer Science programme at the University of Twente that I dropped out of during the covid pandemic. For public university projects refer to [@FoxSamuUni](https://github.com/FoxSamuUni). Due to financial reasons I decided not to continue with my studies, and am now looking for a starter job as software engineer.
+I'm have studied Computing Science at the University of Groningen, I graduated for my bachelor in 2025. Previous education includes an exchange to the University of Helsinki as part of my bachelor studies, and a never-finished Technical Computer Science programme at the University of Twente that I dropped out of during the covid pandemic. For public university projects refer to [@FoxSamuUni](https://github.com/FoxSamuUni).
 
-I volunteered for [Stichting Reffurence](https://reffurence.com/about), where I was _Head of Design_ and _Deputy Director of Organisation_, until the collapse of the organisation in 2026.
+I volunteered for [Stichting Reffurence](https://reffurence.com/about), where I was Head of Design and Deputy Director of Organisation, until the collapse of the organisation in 2026. I now volunteer for [Awoostria](https://awoostria.at/about-us), where I do Graphic Design.
 
