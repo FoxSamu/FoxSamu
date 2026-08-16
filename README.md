@@ -15,7 +15,6 @@ I'm particularly skilled in the following things:
 - Minecraft mods
 - Asynchronous programming
 - Compiler construction
-- UI/UX
 - Game development
 - Formal logic (I did my BSc thesis on this)
 - Linear algebra & geometry
