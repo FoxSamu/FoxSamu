@@ -11,7 +11,7 @@ Hi I'm Samū. I do things. Like programming! This GitHub page is my personal acc
 - Programming since I was 9
 
 I'm particularly skilled in the following things:
-- Kotlin - Java - Rust - TypeScript - C# - JavaScript - C - Python
+- Rust - Kotlin - Java - C - TypeScript - JavaScript - Python
 - Minecraft mods
 - Asynchronous programming
 - Compiler construction
